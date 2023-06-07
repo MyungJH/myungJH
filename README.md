@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 ** stat표시하기 ** 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자ID&show_icons=true&theme=radical)
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uhiyu0799&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uhiyu0799@gmail.com&show_icons=true&theme=radical)
 
