@@ -27,3 +27,7 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MyungJH&show_icons=true&theme=radical)
 
+<!-- 
+** Wakatime Week Stats **
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Harlok)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MyungJH)](https://github.com/anuraghazra/github-readme-stats)
